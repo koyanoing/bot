@@ -457,7 +457,7 @@ URL ကို တန်းပို့ပါ။""",
         progress_msg = await bot.send_message(chat_id, f"""{DRAGON_LOGO}
 
 ⏹️ STOP SCAM
-{░D░E░X░}
+{ARSAR}
 𖤐 Tried: 0
 𓂀 Current Code: 000000
 ♛ Hits: 0
